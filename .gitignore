@@ -1,0 +1,124 @@
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# =========================
+# ENV FILES
+# =========================
+.env
+.env.*
+
+# =========================
+# JUPYTER
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS CODE
+# =========================
+.vscode/
+
+# =========================
+# STREAMLIT
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# LOGS
+# =========================
+*.log
+
+# =========================
+# DATASETS & DOCUMENTS
+# =========================
+data/
+datasets/
+docs/
+documents/
+uploads/
+
+# File types
+*.pdf
+*.docx
+*.pptx
+*.csv
+*.xlsx
+*.jsonl
+*.parquet
+
+# =========================
+# VECTOR DATABASES
+# =========================
+chroma/
+chromadb/
+faiss_index/
+vectorstore/
+db/
+
+# FAISS
+*.faiss
+
+# Chroma
+*.sqlite3
+
+# =========================
+# MACHINE LEARNING FILES
+# =========================
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# =========================
+# CACHE FILES
+# =========================
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# HuggingFace cache
+.huggingface/
+hf_cache/
+
+# =========================
+# LANGCHAIN
+# =========================
+.langchain/
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# BUILD FILES
+# =========================
+dist/
+build/
+*.egg-info/
+
+# =========================
+# SQLITE DATABASES
+# =========================
+*.db
+*.sqlite
+
+# =========================
+# TEMP FILES
+# =========================
+tmp/
+temp/
+*.tmp

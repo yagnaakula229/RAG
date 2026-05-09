@@ -1,0 +1,57 @@
+Cricket is one of the most popular sports in the world. It is played between two teams consisting of eleven players each. The game originated in England and later spread to countries such as India, Australia, Pakistan, South Africa, Sri Lanka, New Zealand, Bangladesh, and many others.
+
+Virat Kohli is regarded as one of the greatest batsmen in modern cricket. He has scored thousands of international runs across all formats including Test matches, One Day Internationals, and T20 Internationals. Kohli is known for his aggressive batting style, fitness standards, and leadership qualities.
+
+MS Dhoni is one of the most successful captains in cricket history. He led India to victory in the 2007 ICC T20 World Cup, the 2011 ICC Cricket World Cup, and the 2013 Champions Trophy. Dhoni is famous for his calm mindset and exceptional finishing abilities during pressure situations.
+
+Sachin Tendulkar is known as the God of Cricket. He scored 100 international centuries and inspired millions of cricket fans around the globe. Tendulkar played for more than two decades and set numerous batting records during his career.
+
+Rohit Sharma is known for his elegant batting and ability to score big hundreds in limited-overs cricket. He has scored multiple double centuries in One Day Internationals and is considered one of the finest white-ball batsmen.
+
+Jasprit Bumrah is recognized for his unique bowling action and deadly yorkers. He is one of the best fast bowlers in world cricket and has performed exceptionally well in all formats.
+
+Cricket matches are played in different formats. Test cricket is the longest format and can last up to five days. One Day Internationals are limited to fifty overs per side, while T20 matches consist of twenty overs per side and are highly entertaining.
+
+The Indian Premier League, commonly known as IPL, is one of the richest cricket leagues in the world. It attracts players from different countries and provides entertainment to millions of viewers every season.
+
+Australia has won multiple Cricket World Cups and is considered one of the strongest cricketing nations. Players such as Ricky Ponting, Glenn McGrath, Shane Warne, and Adam Gilchrist contributed significantly to Australia's dominance.
+
+Pakistan has produced legendary fast bowlers including Wasim Akram, Waqar Younis, Shoaib Akhtar, and Imran Khan. Their pace attack has historically troubled batsmen around the world.
+
+England introduced aggressive batting approaches in modern cricket and won the 2019 Cricket World Cup. Ben Stokes played a crucial role in helping England secure victory in the final.
+
+South Africa has produced great cricketers such as AB de Villiers, Jacques Kallis, Dale Steyn, and Graeme Smith. AB de Villiers is known for his innovative stroke play and ability to play shots all around the ground.
+
+Sri Lanka won the 1996 Cricket World Cup under the leadership of Arjuna Ranatunga. Players like Muttiah Muralitharan and Kumar Sangakkara made significant contributions to Sri Lankan cricket.
+
+Bangladesh has improved tremendously in international cricket over the years. Shakib Al Hasan is regarded as one of the best all-rounders in cricket history.
+
+New Zealand is respected for its sportsmanship and consistency. Kane Williamson is known for his calm captaincy and technically sound batting.
+
+Fielding plays a major role in modern cricket. Teams focus heavily on fitness, catching, and athleticism to save runs and create wicket-taking opportunities.
+
+Technology has changed cricket significantly. The Decision Review System, commonly called DRS, helps umpires make accurate decisions using ball tracking and ultra-edge technologies.
+
+Cricket analytics has become increasingly important. Teams now use data science, machine learning, and video analysis to study player performance, pitch behavior, and opposition strategies.
+
+Artificial Intelligence is also being explored in cricket for predictive analysis, player injury management, and tactical decision-making. Analysts process large amounts of data to improve team performance.
+
+RAG systems in Artificial Intelligence can be used in sports analytics to retrieve historical cricket information and generate intelligent insights for commentators, coaches, and fans.
+
+Machine learning models can analyze batting strike rates, bowling economy, player consistency, and match conditions to predict match outcomes.
+
+Data preprocessing is essential before training machine learning models. Text documents often need cleaning, splitting, embedding, indexing, and retrieval before they can be used effectively.
+
+Document loaders in LangChain help load different document types such as TXT files, CSV files, PDFs, websites, and JSON files into applications.
+
+Text splitters divide large documents into smaller chunks so that embeddings and vector databases can process them efficiently.
+
+Embeddings convert text into numerical vector representations. Similar pieces of text are placed closer together in vector space.
+
+Vector databases such as FAISS and ChromaDB store embeddings and help retrieve relevant information quickly during semantic search operations.
+
+Retrieval-Augmented Generation combines information retrieval with language generation to produce accurate and context-aware responses.
+
+Large Language Models can answer user questions more effectively when connected with retrieval systems containing domain-specific information.
+
+The future of AI-powered sports analytics looks promising as teams increasingly adopt advanced technologies for decision-making and performance optimization.
